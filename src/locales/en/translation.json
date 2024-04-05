@@ -1,0 +1,10 @@
+{
+    "welcome": "Welcome to the Dashboard!",
+    "sub_welcome": "This is a simple dashboard application built with React.",
+    "total_users": "Total Users",
+    "active_users": "Active Users",
+    "inactive_users": "Inactive Users",
+    "home": "Home",
+    "users": "Users"
+
+}

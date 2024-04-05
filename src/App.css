@@ -1,4 +1,4 @@
-.App {
+/* /* .App {
   text-align: center;
 }
 
@@ -35,4 +35,87 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+
+/* 
+.App {
+  text-align: center;
+  padding: 20px;
 }
+
+.user-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+}
+
+.user-card {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  background-color: rgb(87, 87, 97);
+  
+}
+
+
+
+
+.app-container {
+ 
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.navbar {
+  background-color: #333;
+  color: #fff;
+  padding: 10px 20px;
+}
+
+.navbar ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.navbar ul li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.navbar ul li:last-child {
+  margin-right: 0;
+}
+
+.navbar ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.user-list {
+  display: grid;
+  
+  gap: 20px;
+}
+
+.user-card {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  background-color: #f9f9f9;
+}
+
+@media screen and (max-width: 768px) {
+  .app-container {
+    padding: 10px;
+  }
+}
+
+@media screen and (min-width: 769px) {
+  .app-container {
+    padding: 20px;
+  }
+}
+*/
